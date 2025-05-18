@@ -1,0 +1,18 @@
+﻿------------------------------------------------
+| LiteCap - Lightweight Screen Recorder        |
+|----------------------------------------------|
+| ( ) Full Screen   ( ) Specific Window        |
+| [Dropdown of windows]                        |
+|----------------------------------------------|
+| [Browse Output Folder...]  [Selected Path]   |
+| Format: [MP4 ▼]                              |
+| Quality: [100% ▼]                            |
+|----------------------------------------------|
+| [✔] Record Audio                             |
+| [✔] High Quality Mode                        |
+| [✔] Hide LiteCap While Recording             |
+|----------------------------------------------|
+| CPU: 3.2%      RAM: 170 MB                   |
+|----------------------------------------------|
+|      [ Start Recording ]  [ Stop Recording ] |
+------------------------------------------------
